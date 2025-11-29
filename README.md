@@ -5,8 +5,12 @@
 
 3. 🤮 Backend: Parte de una aplicación que gestiona la lógica del negocio y la conexión con la base de datos.
 
+4. 🍩 CAD: Diseño asistido por computadora para ingeniería.
 
 5. 🦁 Race Condition (Condición de Carrera): Situación donde el resultado de la ejecución depende del orden o la temporización incontrolada de múltiples hilos.
+
+
+
 
 
   
