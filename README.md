@@ -11,7 +11,7 @@
 
 6. 🤡 Chip de audio Hi-Fi: Procesador de audio de alta fidelidad que proporciona una reproducción de sonido más clara, precisa y con menor distorsión.
 
-7. 🦍 Jack de 2.5 mm: Conector de audio más pequeño que el estándar de 3.5 mm, común en equipos profesionales o dispositivos específicos de alta calidad.
+7. 🦍 Etiqueta HTML: Elemento que define la estructura y contenido de una página web.
 
 
 
