@@ -9,6 +9,10 @@
 
 5. 🦁 Race Condition (Condición de Carrera): Situación donde el resultado de la ejecución depende del orden o la temporización incontrolada de múltiples hilos.
 
+6. 🤡 Chip de audio Hi-Fi: Procesador de audio de alta fidelidad que proporciona una reproducción de sonido más clara, precisa y con menor distorsión.
+
+7. 🦍 Jack de 2.5 mm: Conector de audio más pequeño que el estándar de 3.5 mm, común en equipos profesionales o dispositivos específicos de alta calidad.
+
 
 
 
