@@ -13,6 +13,8 @@
 
 7. 🦍 Etiqueta HTML: Elemento que define la estructura y contenido de una página web.
 
+8.🎶 Procesadores de lenguaje natural (NLP) :Los procesadores de lenguaje natural (NLP, por sus siglas en inglés) son sistemas que permiten a las computadoras comprender, interpretar y generar lenguaje humano. Se utilizan en asistentes virtuales, traducción automática, análisis de sentimientos y más.
+
 
 
 
