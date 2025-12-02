@@ -12,6 +12,7 @@
 6. 🤡 Chip de audio Hi-Fi: Procesador de audio de alta fidelidad que proporciona una reproducción de sonido más clara, precisa y con menor distorsión.
 
 7. 🦍 Etiqueta HTML: Elemento que define la estructura y contenido de una página web.
+8. 🎶 C++ : es un lenguaje de programación de propósito general que combina programación estructurada y orientada a objetos. Es conocido por su alto rendimiento y se utiliza en sistemas operativos, videojuegos, software embebido y aplicaciones que requieren eficiencia.
 
 
 
